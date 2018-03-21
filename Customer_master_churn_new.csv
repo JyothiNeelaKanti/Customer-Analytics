@@ -1,0 +1,312 @@
+Customer_Id,No_Of_Purchases,Income,Sale_value,First_Name,Last_Name,Age,Gender,Maritial_Status,No_Of_Childern,Profession,Education,Address_2,City,Country,Churn
+1305,2,High,10133,Ebony,Kumar,36,Female,Married,1,Public Relations,Graduate,ML,Shillong,India,0
+1461,2,High,10390,Dane,Ismail,44,,Divorced,2,Payroll,Graduate,Jammu and Kashmir,Jammu,India,0
+1470,1,Low,1051,Dolan,Patel,12,Male,Single,0,Student,Others,Kerala,Kollam,India,0
+1346,2,Low,10559,Dale,Patel,75,Male,Others,2,Customer Service,Under Graduate,Assam,Silchar,India,1
+1388,2,Low,10564,Xyla,Singh,17,,Single,0,Student,PUC\XII,Rajasthan,Jaipur,India,1
+1269,2,High,10634,Keith,Raj,61,Male,Divorced,1,Customer Relations,Post Graduate,UP,Amroha,India,1
+1488,2,Low,10683,Joshua,Ismail,50,,Others,3,Quality Assurance,PUC\XII,MP,Mandasor,India,1
+1395,1,Low,1077,Perry,Raj,39,,Others,2,Asset Management,Under Graduate,AP,Anantapur,India,1
+1077,2,Low,10929,September,Ismail,52,Male,Divorced,1,Advertising,Under Graduate,Gujarat,Bharuch,India,1
+1006,2,High,10954,Murphy,Raj,76,Female,Single,0,Payroll,Graduate,KA,Belgaum,India,1
+1477,2,Low,11088,Drew,Ismail,15,,Single,0,Student,SSLC\X,KA,Bidar,India,1
+1381,3,Low,11124,Aidan,Khan,32,Male,Others,2,Accounting,SSLC\X,Arunachal Pradesh,Itanagar,India,1
+1224,3,High,11132,Wayne,Raj,51,,Divorced,1,Tech Support,Post Graduate,GA,Panjim,India,1
+1401,3,High,11238,Shad,Kumar,54,,Married,3,Research and Development,Others,Daman and Diu,Daman,India,0
+1079,2,High,11349,Melvin,Raj,36,Male,Common-Law,1,Research and Development,Others,JH,Dhanbad,India,1
+1158,2,High,11464,Hop,Jain,43,Male,Divorced,1,Asset Management,Post Graduate,Tripura,Agartala,India,1
+1076,2,Low,11552,Shea,Khan,77,Male,Married,1,Public Relations,SSLC\X,MP,Bhind,India,1
+1281,2,High,11592,Ira,Patel,64,Male,Married,1,Quality Assurance,Post Graduate,UT,Haridwar,India,0
+1164,2,Low,11642,Kim,Ismail,16,Male,Single,0,Student,SSLC\X,Daman and Diu,Daman,India,0
+1295,2,Low,11674,Rhiannon,Singh,28,Male,Married,2,Public Relations,SSLC\X,Haryana,Rohtak,India,0
+1291,3,Low,11771,Malachi,Singh,15,Male,Single,0,Student,SSLC\X,Assam,Guwahati,India,1
+1273,2,Low,11772,Carter,Ismail,15,Female,Single,0,Student,SSLC\X,OR,Puri,India,1
+1237,2,High,11908,Adria,Raj,60,Male,Others,2,Quality Assurance,Graduate,Maharastra,Jalna,India,1
+1301,3,Low,11913,Quail,Khan,77,Female,Divorced,2,Payroll,SSLC\X,GJ,Bharuch,India,0
+1131,3,High,11967,Omar,Ismail,32,Female,Married,1,Public Relations,Graduate,DD,Daman,India,0
+1321,2,Low,12227,Clinton,Raj,17,Male,Single,0,Student,PUC\XII,UP,Noida,India,0
+1373,1,Low,1248,Ross,Raj,72,Male,Divorced,1,Customer Relations,SSLC\X,Delhi,Delhi,India,0
+1468,2,Low,12541,Calvin,Kumar,69,Female,Others,3,Tech Support,PUC\XII,MN,Imphal,India,1
+1169,2,Low,12652,Magee,Singh,19,Male,Single,0,Student,PUC\XII,Gujarat,Gandhinagar,India,1
+1025,1,Low,1274,Owen,Singh,65,,Single,0,Legal Department,PUC\XII,West Bengal,Barddhaman,India,0
+1272,2,High,12764,Duncan,Patel,35,Male,Single,0,Legal Department,Graduate,Pondicherry,Pondicherry,India,1
+1121,3,Low,12980,Dominic,Patel,19,Female,Single,0,Student,PUC\XII,Haryana,Ambala Sadar,India,1
+1408,2,Low,13481,Tanisha,Patel,62,,Divorced,2,Advertising,SSLC\X,OR,Bhubaneswar,India,0
+1306,2,Low,13512,Kylee,Khan,17,Male,Single,0,Student,PUC\XII,Kerala,Kollam,India,1
+1252,2,Low,13763,Claudia,Patel,80,Male,Others,0,Accounting,PUC\XII,Manipur,Imphal,India,1
+1027,2,Low,13768,Mia,Ismail,30,Female,Divorced,2,Tech Support,SSLC\X,Himachal Pradesh,Shimla,India,1
+1064,2,Low,14260,Allen,Raj,26,Male,Married,0,Legal Department,SSLC\X,NL,Kohima,India,0
+1004,2,Medium,14298,Lawrence,Singh,41,Female,Divorced,0,Customer Relations,Under Graduate,SK,Gangtok,India,1
+1142,3,Low,14363,Sarah,Ismail,31,Male,Single,0,Payroll,Under Graduate,MH,Akola,India,1
+1340,3,Medium,14475,Virginia,Kumar,39,Female,Married,2,Customer Relations,PUC\XII,Sikkim,Gangtok,India,1
+1120,2,Low,14521,Xavier,Raj,64,,Divorced,2,Tech Support,PUC\XII,Dadra and Nagar Haveli,Silvassa,India,1
+1198,3,Low,14555,Jacob,Patel,41,Female,Others,3,Tech Support,SSLC\X,Lakshadweep,Kavaratti,India,1
+1380,3,Low,14724,Zahir,Raj,18,Female,Single,0,Student,PUC\XII,TN,Madurai,India,0
+1293,2,Low,14730,Roth,Singh,30,,Married,2,Accounting,SSLC\X,MN,Imphal,India,0
+1255,2,Low,14770,Daria,Raj,19,Male,Single,0,Student,PUC\XII,Gujarat,Surat,India,0
+1248,3,High,14798,Nissim,Singh,63,Male,Divorced,1,Accounting,Others,Goa,Panjim,India,0
+1193,1,Low,1491,Halla,Jain,26,Male,Common-Law,1,Advertising,Post Graduate,Manipur,Imphal,India,0
+1374,1,Low,1509,Gloria,Ismail,77,,Others,1,Advertising,Post Graduate,Tamil Nadu,Nagarcoil,India,0
+1414,2,Low,15092,Brynn,Jain,32,Male,Single,0,Legal Department,Under Graduate,JK,Srinagar,India,0
+1009,2,High,15167,Bell,Kumar,27,,Married,1,Media Relations,Post Graduate,DN,Silvassa,India,0
+1436,2,Low,15428,Rinah,Kumar,52,Female,Single,0,Legal Department,SSLC\X,Goa,Panjim,India,0
+1254,3,Low,15497,Kameko,Jain,56,Female,Divorced,1,Advertising,SSLC\X,GJ,Gandhinagar,India,1
+1149,2,Low,15780,Aretha,Kumar,38,,Common-Law,1,Legal Department,Under Graduate,Chhattisgarh,Raigarh,India,0
+1029,2,Low,15868,Quinn,Singh,43,,Divorced,2,Human Resources,SSLC\X,Jammu and Kashmir,Jammu,India,1
+1175,3,High,15912,Ainsley,Jain,24,,Single,0,Tech Support,Graduate,Gujarat,Bhavnagar,India,0
+1119,2,High,16033,Kalia,Ismail,40,Female,Others,1,Human Resources,Graduate,Punjab,Gujranwala,India,0
+1190,1,Low,1622,Doris,Singh,60,,Others,1,Customer Relations,Graduate,Meghalaya,Shillong,India,1
+1069,1,Low,1634,Ifeoma,Kumar,18,Male,Single,0,Student,PUC\XII,AR,Itanagar,India,0
+1288,2,High,16346,Amery,Ismail,65,,Divorced,2,Finances,Graduate,Jharkhand,Mango,India,0
+1485,2,Low,16537,Walter,Patel,59,,Married,2,Asset Management,Under Graduate,Karnataka,Hospet,India,0
+1030,1,Low,1658,Rhiannon,Jain,59,Female,Divorced,2,Human Resources,Post Graduate,DL,Delhi,India,0
+1489,3,High,16651,Finn,Khan,55,,Divorced,2,Payroll,Others,HP,Shimla,India,0
+1210,2,Low,16673,Colorado,Patel,80,Male,Divorced,1,Public Relations,Under Graduate,AS,Guwahati,India,0
+1151,4,High,16706,Gregory,Raj,38,,Divorced,2,Public Relations,Others,Nagaland,Kohima,India,0
+1062,1,Low,1675,Melvin,Patel,70,Male,Single,0,Customer Service,PUC\XII,HP,Shimla,India,0
+1325,2,High,16755,Nolan,Ismail,77,Female,Married,2,Media Relations,Graduate,Jammu and Kashmir,Jammu,India,1
+1240,2,Low,16880,Dolan,Singh,14,,Single,0,Student,Others,TR,Agartala,India,1
+1399,3,Low,17183,Lisandra,Jain,14,,Single,0,Student,Others,Jammu and Kashmir,Srinagar,India,1
+1344,3,High,17387,Rylee,Ismail,73,Female,Divorced,2,Finances,Graduate,MH,Miraj,India,1
+1497,3,Low,17442,Oscar,Jain,53,Male,Others,1,Finances,PUC\XII,Meghalaya,Shillong,India,1
+1487,1,Low,1748,Ulla,Khan,12,Male,Single,0,Student,Others,Daman and Diu,Daman,India,1
+1418,1,Low,1754,Alexa,Patel,23,Male,Married,1,Customer Service,Under Graduate,Meghalaya,Shillong,India,1
+1073,3,High,17560,Aidan,Kumar,23,,Single,0,Accounting,Graduate,PY,Pondicherry,India,0
+1336,4,High,17594,Aurora,Kumar,69,Male,Divorced,1,Advertising,Graduate,HR,Yamuna Nagar,India,0
+1486,4,Low,17619,Slade,Patel,30,Female,Others,1,Research and Development,SSLC\X,TR,Agartala,India,0
+1031,2,High,17735,Erin,Khan,41,,Common-Law,1,Quality Assurance,Others,RJ,Beawar,India,0
+1130,1,Low,1776,Judith,Khan,53,Female,Single,1,Tech Support,Graduate,Dadra and Nagar Haveli,Silvassa,India,0
+1153,2,High,17776,Reagan,Ismail,55,,Married,1,Finances,Graduate,JK,Jammu,India,0
+1187,1,Low,1787,Fritz,Patel,79,,Married,1,Accounting,PUC\XII,Uttar Pradesh,Hapur,India,0
+1261,3,Low,18139,Brenda,Khan,17,Female,Single,0,Student,SSLC\X,Gujarat,Porbandar,India,0
+1367,2,Low,18142,Addison,Raj,19,Male,Single,0,Student,PUC\XII,AN,Port Blair,India,0
+1435,3,Low,18324,Sylvia,Kumar,59,,Married,1,Public Relations,Under Graduate,DD,Daman,India,0
+1067,1,Low,1841,Aretha,Khan,60,Female,Married,1,Research and Development,Graduate,LD,Kavaratti,India,0
+1442,2,Low,18571,Anne,Jain,67,,Divorced,0,Payroll,SSLC\X,Sikkim,Gangtok,India,0
+1289,2,High,18776,Amos,Khan,48,Female,Single,0,Quality Assurance,Graduate,Delhi,Delhi,India,1
+1331,2,High,1883,Zachary,Raj,33,Female,Divorced,1,Sales and Marketing,Graduate,MZ,Aizwal,India,1
+1413,3,Low,18946,Charissa,Patel,31,,Married,1,Human Resources,PUC\XII,Pondicherry,Pondicherry,India,0
+1177,4,High,19487,Delilah,Khan,59,Female,Common-Law,2,Media Relations,Post Graduate,GJ,Anand,India,1
+1466,3,Low,19807,Thomas,Jain,48,Female,Married,1,Legal Department,Under Graduate,ML,Shillong,India,1
+1074,3,Low,20598,Yetta,Khan,66,Male,Divorced,1,Customer Relations,SSLC\X,Nagaland,Kohima,India,0
+1312,1,Low,2063,Willa,Kumar,54,,Single,0,Customer Service,Graduate,Uttar Pradesh,Kanpur Cantonment,India,1
+1258,3,Low,20714,Lois,Singh,23,Male,Common-Law,1,Asset Management,Under Graduate,AN,Port Blair,India,0
+1034,3,Low,20742,Leandra,Raj,18,,Single,0,Student,PUC\XII,Karnataka,Bangalore,India,1
+1251,1,Low,2097,Dane,Raj,33,Female,Others,1,Advertising,Under Graduate,AS,Silchar,India,0
+1256,3,Low,21130,Caldwell,Kumar,72,Female,Married,1,Payroll,Under Graduate,Bihar,Bihar Sharif,India,1
+1147,1,Low,2143,Brenden,Kumar,63,,Common-Law,1,Asset Management,SSLC\X,HP,Shimla,India,1
+1033,4,Low,21936,Paloma,Jain,60,,Single,0,Public Relations,PUC\XII,SK,Gangtok,India,1
+1200,3,Low,22179,Malik,Kumar,69,,Single,0,Payroll,SSLC\X,Karnataka,Shimoga,India,0
+1196,3,High,22237,Katell,Khan,56,,Common-Law,2,Public Relations,Graduate,Uttar Pradesh,Hathras,India,1
+1145,1,Low,2268,Norman,Raj,51,Male,Married,2,Research and Development,Under Graduate,Jammu and Kashmir,Srinagar,India,0
+1423,5,Low,22879,Wesley,Singh,12,,Single,0,Student,Others,PB,Faisalabad,India,0
+1225,3,Low,23121,Sigourney,Khan,77,,Divorced,1,Finances,PUC\XII,Bihar,Arrah,India,0
+1206,3,High,23500,Mariam,Singh,63,,Others,3,Asset Management,Graduate,SK,Gangtok,India,0
+1019,1,Low,2409,Leila,Ismail,61,,Single,0,Customer Relations,SSLC\X,Haryana,Karnal,India,0
+1392,4,High,24297,Jemima,Jain,27,Male,Married,1,Accounting,Post Graduate,Himachal Pradesh,Shimla,India,1
+1046,1,Low,2443,Mariko,Kumar,40,,Married,2,Media Relations,Graduate,LD,Kavaratti,India,1
+1364,3,High,24501,Bernard,Raj,68,,Married,1,Finances,Others,HP,Shimla,India,1
+1007,1,Low,2549,Ian,Kumar,66,Female,Single,0,Accounting,Graduate,SK,Gangtok,India,1
+1197,1,Low,2557,Denton,Kumar,14,Male,Single,0,Student,SSLC\X,Arunachal Pradesh,Itanagar,India,1
+1167,1,Low,2641,Brett,Kumar,18,,Single,0,Student,PUC\XII,Haryana,Ambala Sadar,India,1
+1212,1,Low,2664,Erich,Patel,32,Female,Married,1,Research and Development,Post Graduate,NL,Kohima,India,0
+1052,1,Low,2731,Anne,Ismail,27,Female,Common-Law,1,Research and Development,SSLC\X,MZ,Aizwal,India,0
+1165,1,Low,2748,Jane,Raj,73,Male,Others,3,Quality Assurance,Under Graduate,JK,Srinagar,India,1
+1310,1,Low,2808,Kenyon,Patel,55,,Married,2,Public Relations,SSLC\X,Lakshadweep,Kavaratti,India,1
+1444,1,Low,2910,Elijah,Patel,76,Female,Others,4,Tech Support,PUC\XII,Rajasthan,Jodhpur,India,1
+1433,1,Low,2942,Ferdinand,Patel,26,,Others,1,Sales and Marketing,Post Graduate,RJ,Bharatpur,India,0
+1425,1,Low,2954,Ayanna,Singh,67,Female,Single,0,Payroll,SSLC\X,Arunachal Pradesh,Itanagar,India,1
+1480,4,High,30727,Alden,Khan,71,Male,Divorced,4,Payroll,Graduate,Pondicherry,Pondicherry,India,0
+1247,1,Low,3108,Wynne,Jain,44,Male,Divorced,2,Customer Service,Post Graduate,Madhya Pradesh,Guna,India,0
+1047,2,High,3117,Fuller,Singh,21,Female,DIvorced,0,Asset Management,Graduate,Chandigarh,Chandigarh,India,0
+1351,1,Low,3123,Kiara,Raj,80,,Others,1,Media Relations,Under Graduate,TN,Dindigul,India,1
+1494,1,Low,3180,Guinevere,Raj,51,Female,Divorced,2,Legal Department,Post Graduate,West Bengal,Barahanagar,India,0
+1290,5,Low,31971,Brett,Patel,62,Female,Single,0,Research and Development,Under Graduate,DN,Silvassa,India,1
+1319,1,Low,3208,Kimberley,Singh,12,,Single,0,Student,Others,JH,Ranchi,India,1
+1028,1,Low,3226,Kaseem,Raj,72,Male,Divorced,2,Asset Management,Graduate,Jharkhand,Mango,India,0
+1127,1,Low,3302,Abraham,Raj,26,Male,Divorced,2,Human Resources,Under Graduate,Jharkhand,Hazaribag,India,1
+1384,1,Medium,3331,Hakeem,Jain,51,,Divorced,2,Research and Development,Post Graduate,MP,Rewa,India,1
+1128,1,Medium,3471,Howard,Singh,58,Female,Single,0,Payroll,Others,KA,Raichur,India,1
+1313,1,Medium,3528,Paul,Jain,43,,Single,0,Asset Management,Others,West Bengal,Navadwip,India,1
+1235,1,Medium,3565,Vance,Patel,57,Female,Married,2,Payroll,Graduate,HR,Bhiwani,India,0
+1493,1,Low,3641,Davis,Jain,25,Male,Married,1,Research and Development,SSLC\X,CT,Bilaspur,India,0
+1124,1,Low,367,Lawrence,Kumar,59,Male,Married,2,Legal Department,SSLC\X,UT,Dehradun,India,0
+1263,1,Medium,3689,Damian,Patel,30,Male,Others,2,Finances,SSLC\X,Goa,Panjim,India,0
+1348,1,Medium,3723,Isabelle,Singh,56,Female,Divorced,0,Tech Support,Others,NL,Kohima,India,0
+1276,1,Low,3747,Mohammad,Jain,53,Female,Divorced,2,Quality Assurance,Under Graduate,Daman and Diu,Daman,India,0
+1326,1,Low,375,Daphne,Patel,48,Female,Married,4,Advertising,PUC\XII,Nagaland,Kohima,India,0
+1039,1,Medium,3835,Charity,Singh,22,Male,Single,0,Advertising,Graduate,TN,Cuddalore,India,1
+1277,1,Low,3841,Rooney,Raj,55,Male,Single,0,Media Relations,SSLC\X,KA,Hubli,India,0
+1226,1,Low,392,Hyatt,Ismail,12,Male,Single,0,Student,Others,NL,Kohima,India,0
+1221,1,Low,3930,Nolan,Khan,16,Male,Single,0,Student,SSLC\X,AP,Anantapur,India,0
+1330,1,Low,3953,Dawn,Singh,42,Male,Married,1,Legal Department,SSLC\X,PB,Daska,India,0
+1159,1,Medium,3992,Hector,Patel,36,Male,Married,0,Customer Service,Graduate,Meghalaya,Shillong,India,0
+1044,1,Low,407,Slade,Khan,17,,Single,0,Student,SSLC\X,CH,Chandigarh,India,0
+1156,1,Medium,4138,Kylee,Raj,62,Female,Others,1,Public Relations,Graduate,AN,Port Blair,India,1
+1215,1,Low,4178,Madaline,Kumar,70,,Others,2,Advertising,Under Graduate,Pondicherry,Pondicherry,India,1
+1398,1,Medium,4192,Wynter,Patel,48,Female,Divorced,2,Customer Relations,Graduate,MN,Imphal,India,1
+1316,1,Medium,4203,Anastasia,Singh,49,,Single,0,Customer Service,Others,Andaman and Nicobar Islands,Port Blair,India,1
+1383,1,Medium,4259,Octavia,Ismail,55,Male,Married,2,Sales and Marketing,Graduate,WB,Durgapur,India,0
+1287,1,Medium,4506,Patrick,Ismail,27,Male,Divorced,2,Payroll,Others,TR,Agartala,India,0
+1183,1,Medium,4545,Marvin,Khan,24,Male,Married,0,Advertising,Graduate,HR,Gurgaon,India,0
+1324,1,Medium,456,Lesley,Khan,40,,Others,2,Media Relations,SSLC\X,MN,Imphal,India,0
+1179,1,Medium,4567,Liberty,Khan,33,,Single,0,Advertising,Post Graduate,ML,Shillong,India,1
+1294,1,Low,457,Sophia,Raj,30,Male,Others,2,Tech Support,PUC\XII,TN,Nagarcoil,India,0
+1048,1,Low,4578,Yuli,Singh,17,Male,Single,0,Student,SSLC\X,AS,Silchar,India,0
+1354,1,Low,4586,Lisandra,Patel,12,Male,Single,0,Student,Others,RJ,Ganganagar,India,0
+1228,1,Medium,466,Fatima,Singh,54,Male,Others,2,Payroll,Graduate,CH,Chandigarh,India,0
+1492,1,Medium,4675,Wyoming,Singh,53,,Married,1,Payroll,Others,OR,Puri,India,0
+1041,1,Medium,4715,Clementine,Patel,26,,Common-Law,1,Payroll,Others,JK,Srinagar,India,1
+1011,1,Medium,4760,Ursa,Kumar,22,Female,Married,0,Research and Development,Graduate,AP,Eluru,India,0
+1086,1,Medium,4804,Dorothy,Ismail,49,Male,Common-Law,1,Research and Development,Post Graduate,Nagaland,Kohima,India,0
+1499,1,Low,4849,Tiger,Khan,19,Male,Single,0,Student,PUC\XII,AS,Silchar,India,0
+1109,1,Medium,4852,Jelani,Raj,76,,Common-Law,1,Sales and Marketing,Post Graduate,MH,Akola,India,0
+1163,1,Low,489,Jeremy,Kumar,13,,Single,0,Student,Others,GJ,Veraval,India,0
+1445,1,Low,4907,Kato,Raj,54,,Others,2,Media Relations,Under Graduate,AP,Ramagundam,India,1
+1241,1,Medium,4960,Caldwell,Ismail,48,Male,Single,0,Public Relations,Post Graduate,SK,Gangtok,India,0
+1359,1,Low,5005,Victor,Singh,18,Male,Single,0,Student,PUC\XII,Manipur,Imphal,India,1
+1213,1,Low,505,Hayley,Raj,23,Female,Single,0,Media Relations,Under Graduate,BR,Bettiah,India,1
+1101,1,Medium,5076,Imani,Jain,35,,Others,2,Customer Service,Graduate,PY,Pondicherry,India,1
+1152,1,Low,510,Bethany,Raj,48,Female,Single,0,Tech Support,PUC\XII,AP,Nandyal,India,0
+1219,1,Low,510,Rhoda,Singh,63,Female,Others,2,Advertising,Under Graduate,GA,Panjim,India,0
+1338,1,Low,5107,Drew,Singh,73,Male,Married,1,Finances,PUC\XII,Manipur,Imphal,India,0
+1160,1,High,5142,Lisandra,Raj,65,Male,Common-Law,1,Tech Support,Post Graduate,West Bengal,Naihati,India,1
+1283,1,Medium,515,Maya,Kumar,39,,Others,1,Media Relations,Graduate,Tamil Nadu,Palayankottai,India,0
+1234,1,Low,5224,Frances,Ismail,37,Female,Others,1,Accounting,Under Graduate,Himachal Pradesh,Shimla,India,0
+1085,2,Low,5241,Conan,Patel,25,Female,Divorced,2,Tech Support,Under Graduate,Chhattisgarh,Bhilai,India,0
+1185,2,High,5241,Hector,Khan,78,,Single,0,Research and Development,Others,Chhattisgarh,Raj Nandgaon,India,0
+1343,2,Low,5250,Addison,Raj,26,Male,Others,2,Asset Management,PUC\XII,Haryana,Faridabad,India,1
+1307,1,Low,5310,Lucian,Patel,52,Female,Divorced,1,Accounting,SSLC\X,Odisha,Cuttack,India,0
+1285,2,Low,5353,Cody,Kumar,14,,Single,0,Student,SSLC\X,Karnataka,Mysore,India,0
+1479,1,Low,5496,Wing,Khan,67,Male,Others,1,Research and Development,Under Graduate,GA,Panjim,India,0
+1162,1,Medium,5551,Kelsie,Kumar,41,Male,Common-Law,2,Customer Relations,SSLC\X,MH,Ulhasnagar,India,0
+1063,1,Low,5610,Imogene,Kumar,36,Male,Single,0,Payroll,SSLC\X,Tamil Nadu,Vellore,India,1
+1379,2,High,5614,Macon,Khan,23,,Single,0,Advertising,Graduate,Daman and Diu,Daman,India,1
+1451,2,Low,5635,Fulton,Singh,21,Female,Single,0,Student,Under Graduate,Maharastra,Mira Bhayandar,India,1
+1058,1,Low,5696,Tamara,Khan,64,Male,Common-Law,1,Accounting,PUC\XII,GJ,Patan,India,1
+1122,1,Low,5721,Moana,Jain,52,Female,Married,0,Finances,Under Graduate,Assam,Nagaon,India,0
+1302,1,Medium,5764,Bert,Singh,40,Male,Single,1,Research and Development,Post Graduate,Haryana,Yamuna Nagar,India,1
+1460,1,Low,5766,Ira,Jain,69,Female,Others,2,Quality Assurance,PUC\XII,MZ,Aizwal,India,1
+1334,1,Medium,5807,Kaitlin,Ismail,56,Male,Divorced,1,Research and Development,Others,MH,Achalpur,India,1
+1238,1,Low,5808,Bruce,Singh,33,Female,Married,0,Advertising,SSLC\X,Kerala,Kollam,India,0
+1049,2,Low,5812,Cade,Khan,30,Male,Married,1,Sales and Marketing,Under Graduate,Maharastra,Bhiwandi,India,1
+1087,1,Low,5832,Idona,Patel,63,Male,Common-Law,1,Research and Development,Under Graduate,Haryana,Ambala Sadar,India,0
+1005,1,Low,5932,Alana,Kumar,18,,Single,0,Student,PUC\XII,MP,Burhanpur,India,0
+1231,3,Low,5942,Imani,Patel,39,Male,Divorced,2,Accounting,Under Graduate,JK,Srinagar,India,0
+1157,1,Low,5961,Cody,Raj,76,Male,Common-Law,2,Accounting,Under Graduate,Manipur,Imphal,India,0
+1317,1,Low,5983,Leandra,Kumar,24,,Single,0,Media Relations,Under Graduate,Tamil Nadu,Rajapalaiyam,India,0
+1491,1,Low,6005,Abra,Ismail,19,Male,Single,0,Student,PUC\XII,HR,Hisar,India,1
+1296,1,Medium,6009,May,Kumar,23,Female,Single,0,Accounting,Graduate,Himachal Pradesh,Shimla,India,1
+1496,1,Medium,6058,Drew,Khan,41,Female,Single,0,Customer Service,Under Graduate,Nagaland,Kohima,India,1
+1406,1,Low,6078,Harper,Raj,38,Female,Married,1,Accounting,Under Graduate,LD,Kavaratti,India,1
+1148,1,Medium,6081,Janna,Ismail,55,,Single,0,Payroll,Post Graduate,DD,Daman,India,1
+1495,1,Medium,6095,Matthew,Kumar,24,Male,Divorced,1,Customer Service,Graduate,DL,Delhi,India,1
+1356,2,High,6137,Madeline,Raj,40,Male,Others,1,Advertising,Others,Delhi,Delhi,India,0
+1075,1,Low,6145,Len,Raj,17,Male,Single,0,Student,SSLC\X,Manipur,Imphal,India,0
+1430,1,Low,6154,Brock,Jain,75,,Married,1,Human Resources,PUC\XII,AN,Port Blair,India,1
+1016,2,High,6155,Alfonso,Patel,67,,Divorced,1,Public Relations,Post Graduate,AN,Port Blair,India,1
+1448,1,Medium,6157,Emmanuel,Kumar,41,,Single,0,Sales and Marketing,Others,LD,Kavaratti,India,1
+1452,1,Medium,6182,Hop,Raj,79,,Married,1,Media Relations,Post Graduate,Andhra Pradesh,Qutubullapur,India,0
+1125,1,Low,6196,Hedley,Ismail,74,,Common-Law,1,Finances,Under Graduate,Haryana,Rohtak,India,1
+1416,1,Medium,6239,Susan,Raj,40,Male,Divorced,1,Advertising,SSLC\X,MZ,Aizwal,India,0
+1371,2,High,6294,Brent,Jain,28,,Others,1,Public Relations,Others,Tripura,Agartala,India,0
+1482,1,High,6357,Aaron,Singh,60,Female,Others,1,Tech Support,Graduate,Daman and Diu,Daman,India,0
+1114,1,High,6359,Yuli,Jain,22,,Single,0,Quality Assurance,Graduate,MN,Imphal,India,1
+1365,1,High,6359,Lane,Khan,22,Female,Single,0,Legal Department,Graduate,GA,Panjim,India,0
+1136,1,High,6366,Indigo,Raj,44,,Common-Law,2,Asset Management,Others,OR,Sambalpur,India,1
+1056,1,Medium,6494,Alec,Khan,39,Male,Married,0,Advertising,SSLC\X,TR,Agartala,India,1
+1168,1,High,6579,Derek,Patel,59,Female,Married,1,Asset Management,Others,Arunachal Pradesh,Itanagar,India,0
+1186,1,Low,6579,Tyler,Jain,55,Female,Married,1,Customer Service,SSLC\X,KL,Kollam,India,1
+1298,1,High,6659,Elijah,Ismail,56,Female,Divorced,4,Research and Development,Others,Kerala,Palakkad,India,1
+1135,1,High,6681,Avye,Kumar,35,Male,Others,2,Customer Service,Post Graduate,Uttarakhand,Haridwar,India,1
+1437,2,Low,6704,Faith,Singh,63,Female,Divorced,2,Customer Service,PUC\XII,ML,Shillong,India,1
+1229,1,Low,677,Kendall,Jain,26,,Others,2,Tech Support,SSLC\X,GA,Panjim,India,0
+1202,1,Low,6785,Alfreda,Khan,22,Female,Single,0,Asset Management,PUC\XII,Pondicherry,Pondicherry,India,0
+1260,1,High,6829,Fulton,Khan,77,,Others,1,Asset Management,Graduate,Rajasthan,Kota,India,0
+1386,1,Low,6861,Gary,Kumar,43,,Divorced,1,Sales and Marketing,PUC\XII,HP,Shimla,India,0
+1378,1,High,6874,Lilah,Ismail,63,Male,Single,0,Tech Support,Others,BR,Arrah,India,0
+1110,1,High,6916,Emi,Raj,59,,Others,1,Sales and Marketing,Others,KA,Hassan,India,0
+1001,1,Low,6947,Kuame,Ismail,46,,Common-Law,0,Research and Development,PUC\XII,AP,Mahbubnagar,India,0
+1476,1,Low,6960,Kasimir,Raj,12,Female,Single,0,Student,Others,TN,Kumbakonam,India,1
+1022,1,Low,6973,Raymond,Kumar,25,Female,Single,0,Human Resources,Under Graduate,MH,Ahmadnagar,India,0
+1417,1,Low,6973,Fulton,Kumar,60,,Others,1,Legal Department,Under Graduate,AN,Port Blair,India,0
+1239,1,Low,7014,Ahmed,Raj,46,,Single,0,Payroll,PUC\XII,MH,Bhiwandi,India,0
+1357,1,High,706,Uriah,Ismail,56,Male,Others,1,Quality Assurance,Post Graduate,Punjab,Patiala,India,0
+1366,1,Low,709,Alea,Khan,18,,Single,0,Student,PUC\XII,Chandigarh,Chandigarh,India,0
+1223,2,High,7141,Marsden,Kumar,37,Male,Divorced,2,Quality Assurance,Post Graduate,PY,Pondicherry,India,0
+1137,1,Low,7198,Pascale,Khan,15,Female,Single,0,Student,Others,Maharastra,Bhir,India,1
+1481,2,High,7202,Zelenia,Jain,57,,Single,0,Customer Service,Post Graduate,Odisha,Brahmapur,India,1
+1078,1,High,7267,Shellie,Khan,79,Female,Divorced,3,Accounting,Post Graduate,Lakshadweep,Kavaratti,India,1
+1490,2,High,7284,Rowan,Patel,77,Male,Others,1,Public Relations,Post Graduate,Jammu and Kashmir,Jammu,India,1
+1426,1,Low,7369,Diana,Jain,66,Male,Married,1,Quality Assurance,Under Graduate,West Bengal,Navadwip,India,0
+1195,1,High,7376,Deanna,Kumar,31,Male,Married,2,Legal Department,Others,PB,Kamalia,India,0
+1245,1,High,7404,Naomi,Patel,45,Male,Divorced,2,Legal Department,Graduate,Chhattisgarh,Durg,India,0
+1394,1,Low,7418,Leonard,Raj,42,Female,Single,0,Payroll,Under Graduate,Uttar Pradesh,Rampur,India,0
+1040,1,High,7438,Xanthus,Khan,34,Female,Single,1,Accounting,Graduate,Manipur,Imphal,India,1
+1309,1,Low,7460,Adam,Ismail,33,,Divorced,1,Customer Relations,SSLC\X,MH,Satara,India,0
+1292,2,Low,7503,Remedios,Raj,26,,Divorced,3,Media Relations,PUC\XII,Andaman and Nicobar Islands,Port Blair,India,0
+1342,1,Low,7552,Derek,Ismail,29,Female,Divorced,2,Public Relations,PUC\XII,WB,Serampore,India,0
+1405,2,Low,7591,Lareina,Raj,28,Male,Divorced,2,Sales and Marketing,PUC\XII,Tripura,Agartala,India,0
+1446,1,Low,7611,Merrill,Patel,12,Female,Single,0,Student,Others,Chandigarh,Chandigarh,India,0
+1010,2,High,7695,Griffin,Singh,30,Female,Divorced,1,Accounting,Post Graduate,Karnataka,Bidar,India,1
+1182,1,Low,7737,Tamekah,Singh,52,,Single,0,Sales and Marketing,PUC\XII,Delhi,Delhi,India,0
+1266,1,High,7746,Garth,Kumar,80,Male,Single,0,Customer Service,Graduate,Jharkhand,Purnea,India,0
+1439,1,Low,7777,Chaney,Khan,44,Female,Married,3,Public Relations,Under Graduate,Tripura,Agartala,India,0
+1138,1,Low,7805,Amery,Raj,61,,Married,3,Sales and Marketing,SSLC\X,Uttar Pradesh,Ghaziabad,India,0
+1361,2,Low,7805,Chancellor,Khan,32,,Single,0,Legal Department,SSLC\X,MP,Guna,India,0
+1484,1,Low,7852,Jacqueline,Singh,41,Female,Married,2,Accounting,Under Graduate,Dadra and Nagar Haveli,Silvassa,India,1
+1143,2,High,7864,Tasha,Jain,52,Female,Divorced,2,Research and Development,Post Graduate,Mizoram,Aizwal,India,0
+1415,1,High,7886,Knox,Ismail,30,Male,Single,0,Tech Support,Others,NL,Kohima,India,1
+1207,1,Low,7908,Jaden,Jain,18,Male,Single,0,Student,PUC\XII,GA,Panjim,India,1
+1126,1,High,7948,Dorian,Kumar,45,Male,Married,1,Customer Relations,Graduate,Tripura,Agartala,India,1
+1218,1,High,7963,Aileen,Kumar,41,Female,Single,2,Sales and Marketing,Graduate,GJ,Morvi,India,0
+1341,1,Low,7967,Sawyer,Jain,53,Male,Married,2,Customer Relations,PUC\XII,Madhya Pradesh,Burhanpur,India,0
+1432,2,High,7999,Hannah,Jain,54,,Others,1,Advertising,Others,MH,Ahmadnagar,India,0
+1498,1,Low,8139,Yoshi,Jain,63,Male,Married,2,Research and Development,SSLC\X,Arunachal Pradesh,Itanagar,India,1
+1100,2,Low,8148,Jeremy,Singh,37,Male,Divorced,1,Quality Assurance,SSLC\X,Tripura,Agartala,India,0
+1412,2,High,8178,Anastasia,Kumar,74,Female,Others,1,Customer Relations,Graduate,Delhi,Delhi,India,0
+1271,2,Low,8275,Jael,Kumar,16,Female,Single,0,Student,SSLC\X,Assam,Silchar,India,0
+1050,1,Low,8305,Bradley,Raj,15,Female,Single,0,Student,SSLC\X,Kerala,Allappuzha,India,0
+1268,1,High,8350,Peter,Patel,71,Male,Divorced,0,Payroll,Others,Mizoram,Aizwal,India,1
+1421,1,High,8386,Mason,Kumar,26,,Single,0,Human Resources,Others,Uttarakhand,Dehradun,India,1
+1057,2,Low,8388,Irene,Jain,34,,Single,0,Customer Relations,SSLC\X,Madhya Pradesh,Bhopal,India,1
+1217,2,Low,8467,Quynn,Jain,19,Female,Single,0,Student,PUC\XII,Karnataka,Gadag Betigeri,India,0
+1093,1,Low,8468,Tanisha,Jain,39,Female,Married,1,Legal Department,Under Graduate,SK,Gangtok,India,1
+1410,1,High,8477,Sonya,Patel,41,Male,Divorced,1,Public Relations,Graduate,UP,Rae Bareli,India,0
+1355,2,High,8671,Bruce,Khan,43,,Divorced,1,Customer Relations,Others,Uttar Pradesh,Orai,India,0
+1205,1,High,870,Hamish,Jain,50,Male,Single,0,Accounting,Others,RJ,Ajmer,India,0
+1337,2,Low,8720,Philip,Patel,45,,Married,2,Human Resources,Under Graduate,Chandigarh,Chandigarh,India,0
+1216,1,High,8751,Bruno,Ismail,54,Female,Married,2,Tech Support,Others,Meghalaya,Shillong,India,0
+1471,1,High,8783,Lenore,Khan,78,Male,Others,1,Tech Support,Post Graduate,Rajasthan,Pali,India,1
+1059,1,Low,8819,Savannah,Patel,21,,Single,0,Research and Development,Under Graduate,MP,Satna,India,1
+1194,2,High,8841,Eugenia,Singh,41,,Divorced,2,Public Relations,Others,Andaman and Nicobar Islands,Port Blair,India,1
+1447,2,High,8845,Miriam,Kumar,62,Female,Single,0,Advertising,Graduate,SK,Gangtok,India,1
+1278,2,High,8915,Kasper,Ismail,67,Male,Married,1,Accounting,Graduate,Dadra and Nagar Haveli,Silvassa,India,1
+1282,2,High,9047,Hiram,Jain,73,Female,Single,0,Human Resources,Post Graduate,Andaman and Nicobar Islands,Port Blair,India,1
+1345,1,Low,9219,Eugenia,Ismail,62,,Divorced,2,Customer Relations,SSLC\X,Odisha,Cuttack,India,0
+1201,2,Low,9240,Aidan,Ismail,26,Female,Divorced,1,Quality Assurance,PUC\XII,TR,Agartala,India,0
+1322,1,Low,9240,Harrison,Raj,12,Female,Single,0,Student,Others,Arunachal Pradesh,Itanagar,India,1
+1469,1,Low,9266,Florence,Ismail,58,Female,Divorced,2,Accounting,PUC\XII,AS,Guwahati,India,1
+1082,2,Low,9275,Jennifer,Jain,41,Male,Married,1,Quality Assurance,Under Graduate,KL,Thalassery,India,1
+1081,1,Low,9297,Taylor,Ismail,47,Male,Married,1,Media Relations,PUC\XII,UT,Haridwar,India,0
+1181,2,High,9297,Alisa,Ismail,39,,Common-Law,2,Human Resources,Others,Uttar Pradesh,Gorakhpur,India,1
+1419,1,High,9312,Clark,Ismail,49,,Divorced,1,Finances,Others,PB,Bhatinda,India,0
+1115,1,High,9361,Leonard,Kumar,42,Female,Married,1,Customer Service,Post Graduate,Maharastra,Yeotmal,India,0
+1327,3,Low,9365,Rafael,Raj,34,Female,Single,0,Customer Service,Under Graduate,ML,Shillong,India,0
+1055,1,Low,939,Hanae,Raj,73,Female,Common-Law,1,Customer Relations,Under Graduate,UP,Modinagar,India,1
+1154,2,Low,9428,Bethany,Jain,30,Male,Married,1,Public Relations,Under Graduate,UT,Haridwar,India,0
+1088,2,High,9582,Jacqueline,Khan,80,Male,Married,2,Quality Assurance,Graduate,Maharastra,Bhir,India,1
+1097,1,Low,9583,Alea,Patel,34,Female,Common-Law,2,Finances,SSLC\X,GA,Panjim,India,1
+1300,2,High,9645,Simone,Patel,59,,Divorced,3,Public Relations,Others,PY,Pondicherry,India,0
+1037,1,Low,9670,Barrett,Kumar,57,Female,Divorced,1,Legal Department,SSLC\X,Pondicherry,Pondicherry,India,1
+1242,1,High,9672,Colleen,Singh,61,Female,Others,2,Asset Management,Graduate,Andhra Pradesh,Hyderabad,India,1
+1026,2,Low,9704,Guy,Singh,36,Male,Divorced,1,Legal Department,SSLC\X,BR,Munger,India,1
+1320,2,Medium,9714,Wendy,Raj,44,Male,Others,2,Customer Service,SSLC\X,Madhya Pradesh,Damoh,India,1
+1358,2,High,9727,Ethan,Singh,73,Female,Divorced,1,Advertising,Others,OR,Bhubaneswar,India,0
+1209,1,Low,9732,Penelope,Singh,12,Female,Single,0,Student,Others,MN,Imphal,India,0
+1089,2,High,9734,Lance,Khan,67,Male,Divorced,2,Accounting,Graduate,SK,Gangtok,India,0
+1257,2,High,9742,Lacy,Jain,43,,Divorced,2,Human Resources,Post Graduate,Himachal Pradesh,Shimla,India,0
+1032,1,Low,9750,Leslie,Raj,27,,Common-Law,1,Legal Department,SSLC\X,Delhi,Delhi,India,0
+1391,2,High,9819,Kennedy,Singh,70,,Single,0,Media Relations,Post Graduate,Sikkim,Gangtok,India,0
+1339,2,Low,9867,Aurora,Khan,61,,Divorced,3,Payroll,PUC\XII,Daman and Diu,Daman,India,0
+1173,1,High,9914,Tashya,Raj,32,,Divorced,3,Customer Relations,Graduate,Pondicherry,Pondicherry,India,1
